@@ -1,0 +1,5 @@
+{
+  "name": "ChronoGen AI",
+  "description": "A precision stopwatch with AI-powered performance analysis using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
